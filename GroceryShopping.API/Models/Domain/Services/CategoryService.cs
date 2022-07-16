@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using GroceryShopping.API.Models.Domain;
-using GroceryShopping.API.Models.Domain.Repository;
+using GroceryShopping.API.Models.Domain.Repositoty;
 
 
 namespace GroceryShopping.API.Models.Domain.Services

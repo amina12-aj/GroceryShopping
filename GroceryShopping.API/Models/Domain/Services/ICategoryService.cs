@@ -1,4 +1,5 @@
-﻿namespace GroceryShopping.API.Models.Domain.Services
+﻿
+namespace GroceryShopping.API.Models.Domain.Services
 {
     public interface ICategoryService
     {

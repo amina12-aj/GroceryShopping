@@ -6,7 +6,7 @@ using GroceryShopping.API.Models.Domain;
 namespace GroceryShopping.API.Controllers
 
 {
-    [Route("/api/[controller]")]
+    [Route("/api/[Categories]")]
     public class CategoriesController : Controller
     {
         private readonly ICategoryService _categoryService;

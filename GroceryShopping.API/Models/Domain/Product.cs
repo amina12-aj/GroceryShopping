@@ -9,7 +9,7 @@
         public string UnitOfMeasurement { get; set; }
 
         public int CategoryId { get; set; }
-        public string Category { get; set; }
+        public Category category { get; set; }
     }
 }
 
