@@ -22,4 +22,4 @@ namespace GroceryShopping.API.Models.Domain.Services
         }
     }
 }
-}
+
